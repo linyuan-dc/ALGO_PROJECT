@@ -1,3 +1,3 @@
 ### Delivery & Acceptance
 
-Delivery demo link: http://yyml.tk
+Deployment demo link: http://yyml.tk
